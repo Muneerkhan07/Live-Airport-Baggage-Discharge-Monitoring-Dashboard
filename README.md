@@ -13,4 +13,4 @@ This project is a Power BI dashboard integrated with SQL Server for live monitor
 
 ## Screenshots  
 ### Dashboard Screenshot  
-![Dashboard Screenshot](screenshots/dashboard.png)  
+![Dashboard Screenshot]("Report Page Screenshort.png")  
